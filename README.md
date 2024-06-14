@@ -1,2 +1,2 @@
 # LaymanRRG
-This is the coda and data for LaymanRRG
+Solving Radiology Report Generation with Layman's Terms
